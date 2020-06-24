@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//Naok000.github.io/pokeList/static/css/main.2ea2eaa2.chunk.css",
+    "main.js": "//Naok000.github.io/pokeList/static/js/main.0c2f5c28.chunk.js",
+    "main.js.map": "//Naok000.github.io/pokeList/static/js/main.0c2f5c28.chunk.js.map",
+    "runtime-main.js": "//Naok000.github.io/pokeList/static/js/runtime-main.87b0fc31.js",
+    "runtime-main.js.map": "//Naok000.github.io/pokeList/static/js/runtime-main.87b0fc31.js.map",
+    "static/css/2.3c03f26f.chunk.css": "//Naok000.github.io/pokeList/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c6d33fe5.chunk.js": "//Naok000.github.io/pokeList/static/js/2.c6d33fe5.chunk.js",
+    "static/js/2.c6d33fe5.chunk.js.map": "//Naok000.github.io/pokeList/static/js/2.c6d33fe5.chunk.js.map",
+    "index.html": "//Naok000.github.io/pokeList/index.html",
+    "precache-manifest.ee1bd5fba99b287198d33e546ee0a507.js": "//Naok000.github.io/pokeList/precache-manifest.ee1bd5fba99b287198d33e546ee0a507.js",
+    "service-worker.js": "//Naok000.github.io/pokeList/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "//Naok000.github.io/pokeList/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2ea2eaa2.chunk.css.map": "//Naok000.github.io/pokeList/static/css/main.2ea2eaa2.chunk.css.map",
+    "static/js/2.c6d33fe5.chunk.js.LICENSE.txt": "//Naok000.github.io/pokeList/static/js/2.c6d33fe5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//Naok000.github.io/pokeList/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b0fc31.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c6d33fe5.chunk.js",
+    "static/css/main.2ea2eaa2.chunk.css",
+    "static/js/main.0c2f5c28.chunk.js"
+  ]
+}
